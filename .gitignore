@@ -1,0 +1,4 @@
+public/
+exampleSite
+.DS_Store
+.hugo_build.lock

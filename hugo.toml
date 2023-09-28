@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = '海源仓库'
+
+[markup.tableOfContents]
+  startLevel = 1
